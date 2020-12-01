@@ -1,4 +1,4 @@
-####  Mon Nov 30 17:42:23 PST 2020
+####  Mon Nov 30 17:42:43 PST 2020
 # AdguardApps
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_app.txt
