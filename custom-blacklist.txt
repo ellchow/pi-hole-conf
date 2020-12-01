@@ -1,3 +1,7 @@
+census.eu-west-1.nielsencollections.com
+census.us-east-1.nielsencollections.com
+census.us-west-2.nielsencollections.com
+edge.curalate.com
 googleads.g.doubleclick.net
 lb.mediarithmics.com
 uk-script.dotmetrics.net
