@@ -1,0 +1,6 @@
+googleads.g.doubleclick.net
+lb.mediarithmics.com
+uk-script.dotmetrics.net
+ums.acuityplatform.com
+ups.analytics.yahoo.com
+www.googleadservices.com
