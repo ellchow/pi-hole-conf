@@ -1,4 +1,5 @@
 buttduckwiser.com
+cdn.unid.go.com
 census.eu-west-1.nielsencollections.com
 census.us-east-1.nielsencollections.com
 census.us-west-2.nielsencollections.com
