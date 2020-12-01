@@ -1,4 +1,4 @@
-####  Mon Nov 30 17:42:43 PST 2020
+####  Mon Nov 30 17:42:52 PST 2020
 # AdguardApps
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_app.txt
@@ -49344,3 +49344,9 @@
 0.0.0.0 whatsapp-cdn-shv-01-ord1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-sea1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-sjc2.fbcdn.net
+googleads.g.doubleclick.net
+lb.mediarithmics.com
+uk-script.dotmetrics.net
+ums.acuityplatform.com
+ups.analytics.yahoo.com
+www.googleadservices.com

@@ -22,9 +22,9 @@ do
     curl --fail $url >> $tmpfile
 done
 
-for fname in blacklist.txt
+for fname in "blacklist.txt"
 do
-    cat fname >> $tmpfile
+    cat $fname >> $tmpfile
 done
 
 mv $tmpfile $out
