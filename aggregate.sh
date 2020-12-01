@@ -22,11 +22,6 @@ do
     curl --fail $url >> $tmpfile
 done
 
-for fname in "blacklist.txt"
-do
-    cat $fname >> $tmpfile
-done
-
 mv $tmpfile $out
 
 git add $out
