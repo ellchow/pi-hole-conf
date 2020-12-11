@@ -15,6 +15,7 @@ tr.trackingsys.tech
 uk-script.dotmetrics.net
 ums.acuityplatform.com
 ups.analytics.yahoo.com
+vast-west.iad-apple.com.akadns.net
 whenvideoup.getperfectplaces2download.info
 ws.vdosupreme.com
 www.googleadservices.com
