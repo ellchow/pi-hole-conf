@@ -20,6 +20,7 @@ tr.trackingsys.tech
 uk-script.dotmetrics.net
 ums.acuityplatform.com
 ups.analytics.yahoo.com
+usersync.getpublica.com
 vast-west.iad-apple.com.akadns.net
 webproxy.advp.apple.com
 whenvideoup.getperfectplaces2download.info
