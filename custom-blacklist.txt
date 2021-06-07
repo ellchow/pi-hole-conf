@@ -1,3 +1,4 @@
+auth.voxmedia.com
 buttduckwiser.com
 c.adsco.re
 cdn.unid.go.com
@@ -9,13 +10,18 @@ edge.curalate.com
 googleads.g.doubleclick.net
 lb.mediarithmics.com
 performoverlyrefinedapplication.icu
+purr.nytimes.com
+realm.trafficmanager.net
 salsify-ecdn.com
 saturdayloathe.com
+stocks-analytics-events.apple.com
+stocks-analytics-events.news.apple-dns.net
 tr.trackingsys.tech
 uk-script.dotmetrics.net
 ums.acuityplatform.com
 ups.analytics.yahoo.com
 vast-west.iad-apple.com.akadns.net
+webproxy.advp.apple.com
 whenvideoup.getperfectplaces2download.info
 ws.vdosupreme.com
 www.googleadservices.com
