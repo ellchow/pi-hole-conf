@@ -1,4 +1,6 @@
+6635101.fls.doubleclick.net
 auth.voxmedia.com
+a-reporting.nytimes.com
 buttduckwiser.com
 c.adsco.re
 cdn.unid.go.com
@@ -6,13 +8,17 @@ cdn.vdosupreme.com
 census.eu-west-1.nielsencollections.com
 census.us-east-1.nielsencollections.com
 census.us-west-2.nielsencollections.com
+e.wordfly.com
 edge.curalate.com
 googleads.g.doubleclick.net
+gstaticadssl.l.google.com
 lb.mediarithmics.com
+myaccount.nytimes.com
 performoverlyrefinedapplication.icu
 purr.nytimes.com
 realm.trafficmanager.net
 salsify-ecdn.com
+samizdat-graphql.nytimes.com
 saturdayloathe.com
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
