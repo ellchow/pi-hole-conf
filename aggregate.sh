@@ -13,7 +13,8 @@ for url in "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardA
         "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt" \
         "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardTracking.txt" \
         "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacy3rdParty.txt" \
-        "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacySpecific.txt"
+        "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacySpecific.txt" \
+        "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts"
 do
     echo "fetching" $url
 
