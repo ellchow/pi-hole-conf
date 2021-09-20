@@ -1,4 +1,6 @@
 # https://github.com/mmotti/pihole-regex/blob/master/regex.list
+# add via UI: Group Management > Domains > RegEx filter
+
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
@@ -13,3 +15,4 @@
 ^mads\.
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
+[.]atwola[.]com
