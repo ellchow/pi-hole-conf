@@ -14,11 +14,17 @@ for url in "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardA
         "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardTracking.txt" \
         "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacy3rdParty.txt" \
         "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacySpecific.txt" \
-        "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts"
+        "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts" \
+        "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" \
+        "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt" \
+        "https://v.firebog.net/hosts/RPiList-Malware.txt" \
+        "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt"
 do
     echo "fetching" $url
 
+    echo "############## SOURCE:$url #######################" >> $tmpfile
     curl --fail $url >> $tmpfile
+    echo >> $tmpfile
 done
 
 mv $tmpfile $out
