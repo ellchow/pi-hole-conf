@@ -1,11 +1,14 @@
 6635101.fls.doubleclick.net
 a-reporting.nytimes.com
+a1.nyt.com
 activate.latimes.com
 activate.platform.californiatimes.com
 arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com
+atr.veritonicmetrics.com
 auth.voxmedia.com
 buttduckwiser.com
 c.adsco.re
+cdn-cookieyes.com
 cdn.unid.go.com
 cdn.vdosupreme.com
 cdn2.popcash.net
@@ -35,8 +38,10 @@ membership.latimes.com
 membership.platform.californiatimes.com
 metering.platform.latimes.com
 mignished-sility.com
+mwcm.nyt.com
 myaccount.nytimes.com
 octaviancontrast.com
+pahaplayers.click
 performoverlyrefinedapplication.icu
 ponderousmuffled.com
 popadex-1919430815.us-east-1.elb.amazonaws.com
