@@ -23,8 +23,15 @@ do
     echo "fetching" $url
 
     echo "############## SOURCE:$url #######################" >> $tmpfile
-    curl --fail $url >> $tmpfile
+    buffile=`mktemp /tmp/XXXXX`
+    curl --fail $url >> $buffile
+
+    grep '^#' $buffile >> $tmpfile
     echo >> $tmpfile
+
+    grep -v '^#' $buffile | sort >> $tmpfile
+    echo >> $tmpfile
+    rm $buffile
 done
 
 mv $tmpfile $out
