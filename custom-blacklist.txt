@@ -39,7 +39,6 @@ membership.platform.californiatimes.com
 metering.platform.latimes.com
 mignished-sility.com
 mwcm.nyt.com
-myaccount.nytimes.com
 octaviancontrast.com
 pahaplayers.click
 performoverlyrefinedapplication.icu
