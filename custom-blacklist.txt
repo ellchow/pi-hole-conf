@@ -8,6 +8,7 @@ atr.veritonicmetrics.com
 auth.voxmedia.com
 buttduckwiser.com
 c.adsco.re
+cantonbecker.com
 cdn-cookieyes.com
 cdn.unid.go.com
 cdn.vdosupreme.com
@@ -56,6 +57,7 @@ samizdat-graphql.nytimes.com
 saturdayloathe.com
 sli.latimes.com
 slippersferry.com
+stats.stackexchange.com
 stickharry.com
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net

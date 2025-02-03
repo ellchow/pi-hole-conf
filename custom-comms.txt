@@ -1,0 +1,7 @@
+
+(\.|^)signal\.org$
+signal.org
+imap.gmail.com
+(\.|^)(icloud|apple)\.com$
+(\.|^)facebook\.com$
+(\.|^)whatsapp\.com$
