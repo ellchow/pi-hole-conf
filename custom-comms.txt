@@ -1,7 +1,35 @@
-
-(\.|^)signal\.org$
+## signal
+cdn2.signal.org
+chat.signal.org
 signal.org
+storage.signal.org
+www.signal.org
+
+## gmail
 imap.gmail.com
-(\.|^)(icloud|apple)\.com$
-(\.|^)facebook\.com$
-(\.|^)whatsapp\.com$
+
+## apple/icloud
+icloud.com
+apple.com
+gateway.fe2.apple-dns.net
+
+## facebook
+facebook.com
+
+## whatsapp
+dit.whatsapp.net
+g.whatsapp.net
+graph.whatsapp.com
+mmg.whatsapp.net
+mmx-ds.cdn.whatsapp.net
+scontent.whatsapp.com
+static.whatsapp.net
+whatsapp.com
+whatsapp.net
+www.whatsapp.com
+
+
+edgeapi.slack.com
+slack.com
+slackb.com
+wss-primary.slack.com
