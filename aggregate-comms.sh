@@ -11,7 +11,7 @@ cat custom-comms.txt >> $tmpfile
 
 for url in "https://raw.githubusercontent.com/jmdugan/blocklists/refs/heads/master/corporations/apple/all" \
                "https://raw.githubusercontent.com/jmdugan/blocklists/refs/heads/master/corporations/facebook/all" \
-               "https://github.com/jmdugan/blocklists/blob/master/corporations/google/all"
+               "https://raw.githubusercontent.com/jmdugan/blocklists/refs/heads/master/corporations/google/all"
 do
     echo "fetching" $url
 

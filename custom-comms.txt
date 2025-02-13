@@ -1,35 +1,35 @@
 ## signal
-cdn2.signal.org
-chat.signal.org
-signal.org
-storage.signal.org
-www.signal.org
+0.0.0.0 cdn2.signal.org
+0.0.0.0 chat.signal.org
+0.0.0.0 signal.org
+0.0.0.0 storage.signal.org
+0.0.0.0 www.signal.org
 
 ## gmail
-imap.gmail.com
+0.0.0.0 imap.gmail.com
 
 ## apple/icloud
-icloud.com
-apple.com
-gateway.fe2.apple-dns.net
+0.0.0.0 icloud.com
+0.0.0.0 apple.com
+0.0.0.0 gateway.fe2.apple-dns.net
 
-## facebook
-facebook.com
+0.0.0.0 ## facebook
+0.0.0.0 facebook.com
 
 ## whatsapp
-dit.whatsapp.net
-g.whatsapp.net
-graph.whatsapp.com
-mmg.whatsapp.net
-mmx-ds.cdn.whatsapp.net
-scontent.whatsapp.com
-static.whatsapp.net
-whatsapp.com
-whatsapp.net
-www.whatsapp.com
+0.0.0.0 dit.whatsapp.net
+0.0.0.0 g.whatsapp.net
+0.0.0.0 graph.whatsapp.com
+0.0.0.0 mmg.whatsapp.net
+0.0.0.0 mmx-ds.cdn.whatsapp.net
+0.0.0.0 scontent.whatsapp.com
+0.0.0.0 static.whatsapp.net
+0.0.0.0 whatsapp.com
+0.0.0.0 whatsapp.net
+0.0.0.0 www.whatsapp.com
 
-
-edgeapi.slack.com
-slack.com
-slackb.com
-wss-primary.slack.com
+## slack
+0.0.0.0 edgeapi.slack.com
+0.0.0.0 slack.com
+0.0.0.0 slackb.com
+0.0.0.0 wss-primary.slack.com
